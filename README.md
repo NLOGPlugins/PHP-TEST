@@ -1,2 +1,2 @@
 # PHP-TEST
-Personal PHP Cod Practice Repo
+Personal PHP Code Practice Repo
