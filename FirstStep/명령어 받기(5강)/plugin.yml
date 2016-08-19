@@ -1,0 +1,16 @@
+name: FirstStep
+main: FirstStep\Main
+author: chansol
+version: alpha-1.0
+api:
+- 1.13.0
+- 2.0.0
+
+commands:
+ firststep:
+  permissions: firststep.commands
+  default: OP
+
+permissions:
+ firststep.commands:
+  default: OP
